@@ -1,1 +1,15 @@
-make the robot by putting the pieces together
+$$$$$$$$$$$$$$$$$$  ROBOTO SPECIFICATIONO - TOP SECRET DO NOT DISCLOSE $$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+In the general case for all robots the instructions are as such.
+
+"make the robot by putting the pieces together"
+
+This involves moving atoms so as to make the robot come into being.
+
+In more specific cases cite en.wikipedia.org for more information.
+
+For the most efficient robot the software it runs should be programmed
+in lolcode as this provides a nice balance between useful abstraction
+and low level power.
