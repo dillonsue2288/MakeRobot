@@ -13,3 +13,5 @@ In more specific cases cite en.wikipedia.org for more information.
 For the most efficient robot the software it runs should be programmed
 in lolcode as this provides a nice balance between useful abstraction
 and low level power.
+
+The End.
